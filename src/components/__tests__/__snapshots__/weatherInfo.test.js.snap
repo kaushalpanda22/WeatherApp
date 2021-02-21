@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherInfo .renderItem should match the snapshot - Clear 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot - Default 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot - Fog 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot - Haze 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot - Rain 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot - Snow 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo .renderItem should match the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo Rendering should match to snapshot - Primary: Primary WeatherInfo snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo Rendering should match to snapshot - Secondary: Secondary WeatherInfo snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`WeatherInfo Rendering should match to snapshot 1`] = `ShallowWrapper {}`;

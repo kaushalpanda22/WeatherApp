@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FetchWeatherScreen Rendering should match to snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`navigation options 1`] = `
+Object {
+  "title": "Weather Forcast",
+}
+`;
